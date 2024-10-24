@@ -17,3 +17,7 @@ Violine SloMo:
 Hier Demos zur Chladnischen Patterns, Lissajous-Figuren etc.:
 
 [Akustische Experimente Playlist](https://www.youtube.com/playlist?list=PLslExxbg3O-fAeclmcjO0LId_xADwxalv)
+
+Fletcher-Munson-Kurve:
+
+[Gehörrichtige Lautstärke on Wikipedia](https://de.wikipedia.org/wiki/Geh%C3%B6rrichtige_Lautst%C3%A4rke)
