@@ -21,3 +21,7 @@ Hier Demos zur Chladnischen Patterns, Lissajous-Figuren etc.:
 Fletcher-Munson-Kurve:
 
 [Gehörrichtige Lautstärke on Wikipedia](https://de.wikipedia.org/wiki/Geh%C3%B6rrichtige_Lautst%C3%A4rke)
+
+Pauken-Obertöne und mehr:
+
+[Well-Tempered Timpani](https://wtt.pauken.org/)
