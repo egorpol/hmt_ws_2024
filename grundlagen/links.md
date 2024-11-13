@@ -25,3 +25,17 @@ Fletcher-Munson-Kurve:
 Pauken-Obertöne und mehr:
 
 [Well-Tempered Timpani](https://wtt.pauken.org/)
+
+Alanolg Sound Synthesis
+
+[CV (Control Voltage)](https://synthesizeronline.com/2023/01/14/control-voltages-cv/)
+
+Sound Localization
+
+Sound Localization: The ability to determine the direction of a sound source relies on binaural cues:
+
+    Interaural Time Difference (ITD): The difference in arrival time of a sound between the two ears, which is most effective for low-frequency sounds.
+
+    Interaural Level Difference (ILD): The difference in sound pressure level reaching each ear, more pronounced for high-frequency sounds due to the head-shadow effect.
+
+[Auditory localization: a comprehensive practical review](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1408073/full)
