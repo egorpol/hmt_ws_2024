@@ -39,3 +39,9 @@ Sound Localization: The ability to determine the direction of a sound source rel
     Interaural Level Difference (ILD): The difference in sound pressure level reaching each ear, more pronounced for high-frequency sounds due to the head-shadow effect.
 
 [Auditory localization: a comprehensive practical review](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1408073/full)
+
+dB
+
+[dB@UNSW](https://www.animations.physics.unsw.edu.au/jw/dB.htm)
+
+[3dB vs 6 dB](https://audiouniversityonline.com/decibels-explained/)
