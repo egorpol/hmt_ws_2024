@@ -44,4 +44,4 @@ dB
 
 [dB@UNSW](https://www.animations.physics.unsw.edu.au/jw/dB.htm)
 
-[3dB vs 6 dB](https://audiouniversityonline.com/decibels-explained/)
+[3dB vs 6dB](https://audiouniversityonline.com/decibels-explained/)
