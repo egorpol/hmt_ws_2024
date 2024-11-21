@@ -45,3 +45,11 @@ dB
 [dB@UNSW](https://www.animations.physics.unsw.edu.au/jw/dB.htm)
 
 [3dB vs 6dB](https://audiouniversityonline.com/decibels-explained/)
+
+Mikrofonierung
+
+[MIkrofontypen](https://primesound.org/microphone-types/)
+
+[Stereo-Aufnahme](https://www.sweetwater.com/insync/stereo-mic-techniques/)
+
+[Stereo-Aufnahme DPA](https://www.dpamicrophones.com/mic-university/audio-production/stereo-recording-techniques-and-setups/)
