@@ -16,3 +16,7 @@ https://en.wikipedia.org/wiki/Support_vector_machine
 
 https://youtu.be/_YPScrckx28
 
+Metrics:
+
+https://docs.kolena.com/metrics/
+
