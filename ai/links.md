@@ -20,3 +20,10 @@ Metrics:
 
 https://docs.kolena.com/metrics/
 
+Algorhythmic composition:
+
+https://de.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel
+
+https://en.wikipedia.org/wiki/Klavierst%C3%BCcke_(Stockhausen)#Klavierst%C3%BCck_XI:_polyvalent_structure
+
+https://www.youtube.com/watch?v=ueyqTzJPUZg

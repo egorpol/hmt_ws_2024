@@ -53,3 +53,19 @@ Mikrofonierung
 [Stereo-Aufnahme](https://www.sweetwater.com/insync/stereo-mic-techniques/)
 
 [Stereo-Aufnahme DPA](https://www.dpamicrophones.com/mic-university/audio-production/stereo-recording-techniques-and-setups/)
+
+https://de.wikipedia.org/wiki/Elektretmikrofon
+
+[Übersicht von Shure](https://www.shure.com/damfiles/default/global/documents/publications/en/performance-production/microphone_techniques_for_live_sound_reinforcement_english.pdf-3df433145fca686a736beeb5da588efa.pdf)
+
+Digitalisierung und Fourier Transform
+
+https://www.waves.com/digital-audio-basics-1-what-you-need-to-know
+
+https://docs.cycling74.com/legacy/max8/tutorials/02_mspdigitalaudio
+
+https://www.youtube.com/watch?v=pWjdWCePgvA
+
+https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft
+
+https://en.wikipedia.org/wiki/Audio_time_stretching_and_pitch_scaling
