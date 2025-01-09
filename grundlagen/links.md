@@ -58,11 +58,33 @@ https://de.wikipedia.org/wiki/Elektretmikrofon
 
 [Übersicht von Shure](https://www.shure.com/damfiles/default/global/documents/publications/en/performance-production/microphone_techniques_for_live_sound_reinforcement_english.pdf-3df433145fca686a736beeb5da588efa.pdf)
 
-Digitalisierung und Fourier Transform
+Digitalisierung
 
 https://www.waves.com/digital-audio-basics-1-what-you-need-to-know
 
 https://docs.cycling74.com/legacy/max8/tutorials/02_mspdigitalaudio
+
+https://www.youtube.com/watch?v=FcXZ28BX-xE
+
+Lissajous-Figuren
+
+https://www.eeworldonline.com/lissajous-figures-from-math-to-measurement-to-art-part-1/
+
+https://youtu.be/xPjNPb8h8Ok?si=rHfvZri9PxfvSmY1
+
+Dayton Miller und die ersten Wellenformaufnahmen:
+
+https://en.wikipedia.org/wiki/Dayton_Miller
+
+https://archive.org/details/scienceofmusical00mill/page/n7/mode/2up
+
+Harmonic Analyzer
+
+https://physics.case.edu/about/history/antique-physics-instruments/harmonic-analyzer-2/
+
+https://www.youtube.com/watch?v=GyYflzRVu6M
+
+Fourier Transform
 
 https://www.youtube.com/watch?v=pWjdWCePgvA
 
