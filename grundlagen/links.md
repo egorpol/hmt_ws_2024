@@ -91,3 +91,7 @@ https://www.youtube.com/watch?v=pWjdWCePgvA
 https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft
 
 https://en.wikipedia.org/wiki/Audio_time_stretching_and_pitch_scaling
+
+Overlap, FFT-Window, Spectral Leakage => [link](fftwindows.pdf)
+
+Negative Frequency, Imaginary Numbers and the Complex Conjugate: https://www.youtube.com/watch?v=_3-qntJ12q4
